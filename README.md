@@ -1,2 +1,2 @@
-# M-todos_Computacionales_Julia
+# Metodos_Computacionales_Julia
 Ciencia de Datos 📈
